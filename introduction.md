@@ -6,3 +6,4 @@ Favorite code school path: Ruby.
 * Java
 * Ruby
 * Unix
+* Killing history using git rebase
